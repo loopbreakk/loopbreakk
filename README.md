@@ -1,8 +1,72 @@
-## Hi! I am loopbreakk.
+# loopbreakk
 
-# 💫 About Me:
-Builder and tinkerer exploring security, software, and hardware through practical projects and prototypes.
+Builder focused on security, software, and hardware projects.  
+I learn by building small systems, tools, and experiments across different domains.
 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+## tech stack
+
+**languages**
+Python • JavaScript • Bash • SQL
+
+**security / tooling**
+Linux • Wireshark • Burp Suite • basic pentesting workflows • TryHackMe labs
+
+**data / ML**
+Pandas • NumPy • basic scikit-learn
+
+**systems / hardware**
+Raspberry Pi • Arduino (basic) • Linux-based environments
+
+**tools**
+Git • GitHub • VS Code • Docker (basic)
+
+---
+
+## featured projects
+
+*(click to view repositories)*
+
+[![Pi-hole Network Ad Blocker](https://via.placeholder.com/300x120.png?text=Pi-hole+Adblocker)](https://github.com/loopbreakk)
+Network-wide DNS-based ad blocking and traffic filtering setup using Pi-hole.
+
+[![YouTube to MP3 Tool](https://via.placeholder.com/300x120.png?text=YouTube+to+MP3)](https://github.com/loopbreakk)
+Automation utility for media extraction and offline conversion workflows.
+
+[![The Bridge](https://via.placeholder.com/300x120.png?text=The+Bridge)](https://github.com/loopbreakk)
+Single-board computing system for diagnostics, experimentation, and controlled security testing environments.
+
+[![Deadzone](https://via.placeholder.com/300x120.png?text=Deadzone)](https://github.com/loopbreakk)
+Proof-of-concept system exploring controlled communication isolation and signal restriction concepts in experimental setups.
+
+---
+
+## approach
+
+I focus on learning through hands-on experimentation and building functional systems.  
+The goal is to develop skills that transfer across domains rather than specialize narrowly.
+
+---
+
+## support
+
+If you find my work useful or want to support ongoing projects:
+
+- Ko-fi: https://ko-fi.com/yourlink  
+- Patreon: https://patreon.com/yourlink  
+
+---
+
+## links
+
+- GitHub: https://github.com/loopbreakk  
+- TryHackMe:
+- Hack the Box:
+- HackerOne: 
+
+---
+
+## note
+
+This is an evolving portfolio. Projects are frequently updated, replaced, or archived as I move between areas of interest.
