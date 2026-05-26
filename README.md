@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I am loopbreakk.
 
 # 💫 About Me:
 Builder and tinkerer exploring security, software, and hardware through practical projects and prototypes.
