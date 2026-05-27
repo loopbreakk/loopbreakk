@@ -42,23 +42,21 @@ The goal is to develop skills that transfer across domains rather than specializ
 
 If you find my work useful or want to support ongoing projects:
 
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][5]
+[<img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5c58570cfdd26f0001068f06/0x0.png" width="60" height="60" style="border-radius">][4]
 
-[5]: https://buymeacoffee.com/loopbreakk 
+[4]: https://buymeacoffee.com/loopbreakk 
 
 ---
 
 ## Links
 
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][2]
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][3]
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][4]
-
-[1]: https://github.com/loopbreakk  
-[2]: https://tryhackme.com/p/loopbreakk
-[3]: https://app.hackthebox.com/users/loopbreakk
-[4]: https://hackerone.com/loopbreak?type=user
+[<img src="https://friconix.com/jpg/fi-snsuxx-tryhackme.jpg" width="60" height="60" style="border-radius">][1]
+[<img src="https://www.crest-approved.org/wp-content/uploads/ultimatemember/1086/stream_photo_f91dcc65_54ba6b4e92b24ddf4447421e70dbe251c4d8292c.png" width="60" height="60" style="border-radius">][2]
+[<img src="https://assets.backoffice.vendr.com/public-assets/logos/1724777754590/hackeronelogo.jpeg" width="60" height="60" style="border-radius">][3]
+ 
+[1]: https://tryhackme.com/p/loopbreakk
+[2]: https://app.hackthebox.com/users/loopbreakk
+[3]: https://hackerone.com/loopbreak?type=user
 
 ---
 
