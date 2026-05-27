@@ -5,31 +5,20 @@ I learn by building small systems, tools, and experiments across different domai
 
 ---
 
-## tech stack
+## My Skills
 
-**languages**
-Python • JavaScript • Bash • SQL
-
-**security / tooling**
-Linux • Wireshark • Burp Suite • basic pentesting workflows • TryHackMe labs
-
-**data / ML**
-Pandas • NumPy • basic scikit-learn
-
-**systems / hardware**
-Raspberry Pi • Arduino (basic) • Linux-based environments
-
-**tools**
-Git • GitHub • VS Code • Docker (basic)
+[![My Skills](https://skillicons.dev/icons?i=bash,blender,clion,html,css,debian,discord,docker,github,go,kali,latex,mysql,perl,php,postman,powershell,pycharm,py,pytorch,r,ruby,rust,scala,terraform,tensorflow,ubuntu,vim,vscode,windows,cs,c)](https://skillicons.dev)
 
 ---
 
-## featured projects
+## Projects
 
 *(click to view repositories)*
 
 [![Pi-hole Network Ad Blocker](https://via.placeholder.com/300x120.png?text=Pi-hole+Adblocker)](https://github.com/loopbreakk)
 Network-wide DNS-based ad blocking and traffic filtering setup using Pi-hole.
+
+[6]: https://...
 
 [![YouTube to MP3 Tool](https://via.placeholder.com/300x120.png?text=YouTube+to+MP3)](https://github.com/loopbreakk)
 Automation utility for media extraction and offline conversion workflows.
@@ -42,31 +31,37 @@ Proof-of-concept system exploring controlled communication isolation and signal 
 
 ---
 
-## approach
+## Approach
 
 I focus on learning through hands-on experimentation and building functional systems.  
 The goal is to develop skills that transfer across domains rather than specialize narrowly.
 
 ---
 
-## support
+## Support
 
 If you find my work useful or want to support ongoing projects:
 
-- Ko-fi: https://ko-fi.com/yourlink  
-- Patreon: https://patreon.com/yourlink  
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][5]
+
+[5]: https://buymeacoffee.com/loopbreakk 
 
 ---
 
-## links
+## Links
 
-- GitHub: https://github.com/loopbreakk  
-- TryHackMe:
-- Hack the Box:
-- HackerOne: 
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][2]
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][3]
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][4]
+
+[1]: https://github.com/loopbreakk  
+[2]: https://tryhackme.com/p/loopbreakk
+[3]: https://app.hackthebox.com/users/loopbreakk
+[4]: https://hackerone.com/loopbreak?type=user
 
 ---
 
-## note
+## Note
 
 This is an evolving portfolio. Projects are frequently updated, replaced, or archived as I move between areas of interest.
