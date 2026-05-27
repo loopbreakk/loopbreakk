@@ -15,19 +15,7 @@ I learn by building small systems, tools, and experiments across different domai
 
 *(click to view repositories)*
 
-[![Pi-hole Network Ad Blocker](https://via.placeholder.com/300x120.png?text=Pi-hole+Adblocker)](https://github.com/loopbreakk)
-Network-wide DNS-based ad blocking and traffic filtering setup using Pi-hole.
-
-[6]: https://...
-
-[![YouTube to MP3 Tool](https://via.placeholder.com/300x120.png?text=YouTube+to+MP3)](https://github.com/loopbreakk)
-Automation utility for media extraction and offline conversion workflows.
-
-[![The Bridge](https://via.placeholder.com/300x120.png?text=The+Bridge)](https://github.com/loopbreakk)
-Single-board computing system for diagnostics, experimentation, and controlled security testing environments.
-
-[![Deadzone](https://via.placeholder.com/300x120.png?text=Deadzone)](https://github.com/loopbreakk)
-Proof-of-concept system exploring controlled communication isolation and signal restriction concepts in experimental setups.
+Coming soon...
 
 ---
 
